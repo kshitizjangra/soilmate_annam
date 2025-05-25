@@ -1,0 +1,13 @@
+{
+    "_comment": "This JSON file containing the ml-metrics",
+    "Name": "Kshitiz Jangra, Harshal Chaudhari",
+    "Kaggle Username": "annam.ai",
+    "Team Name": "SoilMate",
+    "f1 scores": {
+        "_comment": "Here are the class wise f1 scores",
+        "alluvial soil": 0.48,
+        "red soil": 0.48,
+        "black soil": 0.48,
+        "clay soil": 0.48
+    }
+}
